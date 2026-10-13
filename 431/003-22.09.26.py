@@ -8,7 +8,7 @@ p_name = "TUX"
 
 print("My name is "+ my_name + ".\nI am " + str(my_age) +  ".\n")
 print("My first pet is " + p_name + ", he's a " + p_age + "y/o penguin, and the mascot of Linux.")
-print("My second pet is "+ t_name + "he's a " + t_age + "y/o turtle, and my friend's favourite animal")
+print("My second pet is "+ t_name + " he's a " + t_age + "y/o turtle, and my friend's favourite animal")
 print("My name is %a and I am a %sy/o" %(my_name, my_age))
 action1 = input("Give me an action.")
 enemy1 = input("Give me a bad character.")
